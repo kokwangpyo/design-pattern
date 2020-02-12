@@ -2,7 +2,7 @@
 
 # Introduction
 
-- Java 진영과 GOF 진영에서 언급되는 Builder Pattern은 서로 다름
+- Java 진영과 GOF 진영에서 언급되는 Builder Pattern은 강조하는 관점이 서로 다름
 - GOF에서 설명한 Builder Pattern을 알아보고, Java 진영의 Builder Pattern에 대해서 가볍게 알아보자
 
 ## GOF
