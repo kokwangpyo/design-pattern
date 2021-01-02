@@ -1,7 +1,7 @@
 # Design-pattern
 
-- 매주 일요일 오전 11시
+- 매주 토요일 오전 10시
 
 # Reference 
 
-- GoF의 Design-Pattern
+- Design-Pattern
